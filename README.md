@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JordanchoEftimov"/>
+</p>
+
+<p align="center">
   I'm a very passionate and hardworking developer! 👨‍💻
 </p>
 
