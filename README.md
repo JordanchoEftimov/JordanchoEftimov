@@ -1,9 +1,6 @@
 # Jordancho Eftimov
 
 👨‍💻 CTO @ [Prime Capital by Adora](https://theprime.capital)  
-Laravel & Vue.js Specialist | Software Architect | Academic Mentor
-
-I’m a software engineer focused on building clean, scalable systems that solve real problems. With a strong foundation in backend and frontend development, I lead engineering teams and deliver robust digital products from architecture to deployment.
 
 ### 👔 Current Roles
 - **CTO @ Prime Capital by Adora** – Leading product development and engineering strategy
